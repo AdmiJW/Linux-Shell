@@ -201,10 +201,10 @@
 
 
 #################################
-# 8 - ORS
+# 8 - ORS (Output Record Separator)
 #################################
 #
-# ORS is a built-in variable that gets appended to each line that gets output.
+# ORS is a built-in variable that gets appended to each line that gets output. 
 # By default, it is a newline character, so every output is contained in their own line
 #
 # Also, NR is simply the row number 
